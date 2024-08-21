@@ -1,0 +1,75 @@
+\begin{thebibliography}{10}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Michaud(2023)]{michaud2023}
+Pierre-Carl Michaud.
+\newblock Vers un régime de rente flexible et à la portée de tous.
+\newblock Technical report, Institut sur la retraite et l'épargne, 2023.
+
+\bibitem[Milligan and Schirle(2008)]{milliganschirle2008}
+Kevin Milligan and Tammy Schirle.
+\newblock Improving the labour market incentives of canada's public pensions.
+\newblock \emph{Canadian Public Policy}, 34\penalty0 (3):\penalty0 281--303,
+  2008.
+
+\bibitem[Michaud et~al.(2020)Michaud, Décarie, Glenzer, Laliberté-Auger, and
+  Staubli]{michaud2020}
+Pierre-Carl Michaud, Yann Décarie, Franca Glenzer, François Laliberté-Auger,
+  and Stefan Staubli.
+\newblock Modifier les âges pour recevoir des prestations de {RRQ} et de
+  {RPC}?
+\newblock Technical report, IRPP, 2020.
+
+\bibitem[MacDonald(2023)]{macdonald2020}
+Bonnie-Jean MacDonald.
+\newblock Get the most from the canada and quebec pension plans by delaying
+  benefits: The substantial (and unrecognized) value of waiting to claim
+  cpp/qpp benefits.
+\newblock Technical report, National Institute of Ageing, Ryerson University,
+  2023.
+
+\bibitem[Laverdiere et~al.(2023)Laverdiere, Halle-Rochon, and
+  Godbout]{laverdiere2023}
+Daniel Laverdiere, Frederick Halle-Rochon, and Luc Godbout.
+\newblock Quand debuter ses prestations publiques de retraite: Les avantages de
+  la flexibilite.
+\newblock Technical report, Regard CFFP 2023-6, 2023.
+
+\bibitem[Milligan and Schirle(2021)]{milliganschirle2021}
+Kevin Milligan and Tammy Schirle.
+\newblock {The Evolution of Longevity: Evidence from Canada}.
+\newblock \emph{Canadian Journal of Economics}, 54\penalty0 (1):\penalty0
+  164--192, February 2021.
+
+\bibitem[Glenzer et~al.(2023)Glenzer, Michaud, and Staubli]{glenzer2023}
+Franca Glenzer, Pierre-Carl Michaud, and Stefan Staubli.
+\newblock Frames, incentives, and education: Effectiveness of interventions to
+  delay public pension claiming.
+\newblock Working Paper 30938, National Bureau of Economic Research, February
+  2023.
+\newblock URL \url{http://www.nber.org/papers/w30938}.
+
+\bibitem[Shoven and Slavov(2014)]{shoven_slavov_2014}
+John~B. Shoven and Sita~N. Slavov.
+\newblock Does it pay to delay social security?
+\newblock \emph{Journal of Pension Economics and Finance}, 13\penalty0
+  (2):\penalty0 121–144, 2014.
+\newblock \doi{10.1017/S1474747213000309}.
+
+\bibitem[Ostrovsky and Schellenberg(2010)]{ostrovsky2010}
+Yuri Ostrovsky and Grant Schellenberg.
+\newblock Pension coverage and earnings replacement rates among canadian
+  couples.
+\newblock Technical report, Statistics Canada 11F0019M-No.327, 2010.
+
+\bibitem[{Institut sur la retraite et l'épargne}(2020)]{ire2020}
+{Institut sur la retraite et l'épargne}.
+\newblock Préparation à la retraite des canadiens: Rapport de synthèse
+  simulateur et résultats de base.
+\newblock Technical report, HEC Montréal, 2020.
+
+\end{thebibliography}

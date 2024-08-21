@@ -1,0 +1,33 @@
+AC: 	Age at which public pension is claimed
+	We consider ages 60 to 65
+	Reference at 65
+Coh: 	Birth cohorts in 5-year intervals
+	1926,1930,1935,1940,1945,1950 (to 1954)
+	Reference at 1940
+Dis_d:	Disability status, ages up to 65 (DSBCQI>0)
+	0 -> has not claimed disability
+	1 -> claimed disability benefits
+	Reference at no disability
+Sex: 	0 -> women 
+	1 -> men
+	Women as reference
+Imm: 	Immigrant dummny
+	0 -> non-immigrant
+	1 -> immigrant
+	Non-immigrant as reference
+Mrt: 	Marital status defined at AC
+	0 -> divorced/single
+	1 -> married
+	2 -> widowed
+	Divorced/single as reference
+p_lvl: 	Public pension level / maximum gains admissible pour l'année
+	Defined in quintiles by year claimed & AC
+	1 -> lowest
+	5 -> highest
+	Reference at 3
+pp_lvl: Private pension level
+	Defined in quintiles by birth year
+	0 -> no private pension
+	1 -> lowest
+	5 -> highest
+	Reference at 3

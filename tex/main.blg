@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
+The style file: unsrtnat.bst
+Database file #1: refs.bib
+I was expecting a `,' or a `}'---line 138 of file refs.bib
+ : 
+ : @techreport{macdonald2020,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "milliganschirle202"
+You've used 10 entries,
+            2481 wiz_defined-function locations,
+            611 strings with 6278 characters,
+and the built_in function-call counts, 3161 in all, are:
+= -- 279
+> -- 156
+< -- 8
++ -- 64
+- -- 44
+* -- 224
+:= -- 555
+add.period$ -- 32
+call.type$ -- 10
+change.case$ -- 26
+chr.to.int$ -- 10
+cite$ -- 10
+duplicate$ -- 156
+empty$ -- 264
+format.name$ -- 62
+if$ -- 648
+int.to.chr$ -- 1
+int.to.str$ -- 11
+missing$ -- 3
+newline$ -- 60
+num.names$ -- 30
+pop$ -- 61
+preamble$ -- 1
+purify$ -- 10
+quote$ -- 0
+skip$ -- 96
+stack$ -- 0
+substring$ -- 89
+swap$ -- 16
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 70
+warning$ -- 0
+while$ -- 23
+width$ -- 0
+write$ -- 141
+(There was 1 error message)
